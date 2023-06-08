@@ -14,17 +14,17 @@ Tinder then gathered the data from this experiment. Each row in the dataset repr
 ## Goals 🎯
 Use the dataset to understand what makes people interested into each other to go on a second date together:
 
-**You may use descriptive statistics
+**You may use descriptive statistics**
 
-**You may use visualisations
+**You may use visualisations**
 
 ##  Deliverable 📬
 To complete this project, your team should deliver:
 
 A notebook with:
 
-**descriptive statistics
+**descriptive statistics**
 
-**visualisations
+**visualisations**
 
-**captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date
+**captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date**
