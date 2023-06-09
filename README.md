@@ -18,6 +18,21 @@ Use the dataset to understand what makes people interested into each other to go
 
 **You may use visualisations**
 
+## Helpers 🦮
+To help you achieve this project, here are a few tips that should help youbest destinations on a map
+
+Data Exploration Ideas :
+
+What are the least desirable attributes in a male partner? Does this differ for female partners?
+
+How important do people think attractiveness is in potential mate selection vs. its real impact?
+
+Are shared interests more important than a shared racial background?
+
+Can people accurately predict their own perceived value in the dating market?
+
+In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+
 ##  Deliverable 📬
 To complete this project, your team should deliver:
 
